@@ -1,5 +1,7 @@
 ## Proyecto de Noticias
-Developer: Fernando Dilland Mireles Cisneros.
+（Last Update August 3, 2021)
+
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
 ### List of objectives
 - [x] Use News API to generate news https://newsapi.org/.
@@ -9,3 +11,7 @@ Developer: Fernando Dilland Mireles Cisneros.
 
 ### Screenshot of operation
 ![natterstefan](https://res.cloudinary.com/dxgwcpdom/image/upload/v1623223350/GitHub/fm_y6xlzk.png)
+
+## License
+
+[news-project](https://github.com/fernandomireles/news-project/) are released under [MIT license](https://github.com/fernandomireles/news-project/blob/main/LICENSE) . Copyright (c) [Fernando Mireles](https://github.com/fernandomireles).
