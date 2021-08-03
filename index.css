@@ -1,0 +1,28 @@
+.jumbotron{
+	background-color: #260154;
+}
+.jumbotron h1{
+	color: white;
+}
+
+.jumbotron p{
+    color: white;
+}
+body{
+	background-color: whitesmoke;
+}
+
+img{
+    width: calc(80% - 0px);
+    height: calc(60% - 10px);
+}
+
+.NewsGrid{
+    margin: 20px;
+    border: 2px solid lightgray;
+    margin-top: 20px;
+}
+
+.container-fluid{
+    width: 90%;
+}
