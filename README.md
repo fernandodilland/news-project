@@ -10,7 +10,7 @@
 - [x] PHP language.
 
 ### Screenshot of operation
-![natterstefan](https://res.cloudinary.com/dxgwcpdom/image/upload/v1623223350/GitHub/fm_y6xlzk.png)
+![natterstefan](https://res.cloudinary.com/dxgwcpdom/image/upload/v1628106508/GitHub/screenshot_bgxtz5.png)
 
 ## License
 
