@@ -1,5 +1,5 @@
 ## News website project
-（Last Update August 3, 2021)
+（Last Update August 4, 2021)
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
