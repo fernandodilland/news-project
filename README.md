@@ -12,6 +12,12 @@
 ### Screenshot of operation
 ![natterstefan](https://res.cloudinary.com/dxgwcpdom/image/upload/v1628106508/GitHub/screenshot_bgxtz5.png)
 
+### Installation and use (Local)
+- Install and run recommended local server manager XAMPP https://www.apachefriends.org/es/index.html.
+- Place the unzipped repository in the XAMPP fetching directory (Example: C:\xampp\htdocs\news-website).
+- Running the Apache module (local) in XAMPP.
+- Go to the web page of the local directory (Example http://localhost/news-website/index.php)
+
 ## License
 
 [news-project](https://github.com/fernandomireles/news-project/) are released under [MIT license](https://github.com/fernandomireles/news-project/blob/main/LICENSE) . Copyright (c) [Fernando Mireles](https://github.com/fernandomireles).
